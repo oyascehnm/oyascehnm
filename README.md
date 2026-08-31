@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben oyascehnm 👋</h1>
+<h1 align="center">Merhaba, ben Oya.</h1>
 
 <h3 align="center">C# / .NET Developer | Unity & Unreal Engine 5 Game Dev Enthusiast</h3>
 
