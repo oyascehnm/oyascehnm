@@ -2,9 +2,6 @@
 
 <h3 align="center">C# / .NET Developer | Unity & Unreal Engine 5 Game Dev Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=C%23+%2F+.NET+Developer;Unity+%26+UE5+Game+Dev;Sürekli+öğreniyor%2C+geliştiriyorum" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Ankara-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
