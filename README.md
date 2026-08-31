@@ -13,13 +13,13 @@
 
 ---
 
-### 🧑‍💻 Hakkımda
+###  Hakkımda
 
 - 🎮 **Unity** ve **Unreal Engine 5** ile oyun geliştirmeyi seviyorum
 - 💻 **C# / .NET** ekosisteminde masaüstü ve backend uygulamaları geliştiriyorum
 - 🗄️ **Entity Framework Core** ile veritabanı odaklı projeler tasarlıyorum
 - 🌱 Şu anda yeni oyun mekanikleri ve mimari desenler üzerinde çalışıyorum
-- 📫 Bana ulaşmak için: **oyasce.yzl@gmail.com**
+- Bana ulaşmak için: **oyasce.yzl@gmail.com**
 
 ---
 
