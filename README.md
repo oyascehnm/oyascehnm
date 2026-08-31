@@ -72,7 +72,7 @@ iletişim: oyasce.yzl@gmail.com
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
-## 🐍 Katkı Yılanı
+## biraz da animasyon göstereyim :)
 
 <div align="center">
 
