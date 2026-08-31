@@ -104,13 +104,13 @@ iletişim: oyasce.yzl@gmail.com
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
-## 🐍 Katkı Yılanı
+
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-<sub>⚙️ Bu animasyonun otomatik güncellenmesi için repo Ayarları > Actions'tan bir GitHub Action kurulması gerekir — istersen bunu da senin için hazırlayabilirim.</sub>
+
 
 </div>
 
