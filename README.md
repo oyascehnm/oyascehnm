@@ -71,7 +71,7 @@
   </tr>
 </table>
 
-### 📫 Bana Ulaşın
+### Bana Ulaşın
 
 <p align="center">
   <a href="mailto:oyasce.yzl@gmail.com">
@@ -79,4 +79,3 @@
   </a>
 </p>
 
-<p align="center"><i>Bu profil sürekli güncelleniyor 🚀</i></p>
