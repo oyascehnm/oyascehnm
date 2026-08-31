@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=oyascehnm&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%2B%20Game%20Designer%20%7C%20C%23%20%2F%20.NET&descAlignY=55&descSize=20"/>
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&width=700&height=110&lines=Merhaba%2C+ben+oyascehnm+%F0%9F%91%8B;Oyun+geliştiriyorum%2C+oyun+tasarlıyorum+%F0%9F%8E%AE;C%23+%2F+.NET+ana+silahım+%E2%9A%94%EF%B8%8F;JS+%2F+TS+%2F+Python+de+cebimde+%F0%9F%90%8D;Mobil+oyun+%26+uygulama+da+var+listede+%F0%9F%93%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Merhaba%2C+ben+oyascehnm+%F0%9F%91%8B;Oyun+geli%C5%9Ftiriyorum%2C+oyun+tasarl%C4%B1yorum+%F0%9F%8E%AE;C%23+%2F+.NET+ana+silah%C4%B1m+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -27,9 +25,6 @@ ana_silah: C# / .NET
 yan_silahlar: [JavaScript, TypeScript, Python]
 platformlar: [PC, Mobil Oyun, Mobil Uygulama]
 konum: Ankara, Türkiye
-şu_an: >
-  Yeni bir oyun mekaniği prototipliyorum,
-  arada backend tarafına da göz atıyorum
 iletişim: oyasce.yzl@gmail.com
 ```
 
@@ -37,12 +32,6 @@ iletişim: oyasce.yzl@gmail.com
 - 🏗️ En rahat ettiğim alan **C# / .NET**, ama **JavaScript, TypeScript ve Python** da elimin altında
 - 📱 Mobil uygulama ve mobil oyun geliştirme tarafında da tecrübem var
 - 🌱 Sürekli yeni bir şeyler deniyorum — bazen bir mekanik, bazen bir mimari, bazen tamamen alakasız bir şey
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api" width="450" />
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
@@ -141,16 +130,8 @@ iletişim: oyasce.yzl@gmail.com
 
 </div>
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100">
-
-<i>⭐ Bu profili beğendiysen bir yıldız bırakabilirsin!</i>
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
+
+<div align="center">
+<i>⭐ Bu profili beğendiysen bir yıldız bırakabilirsin!</i>
+</div>
