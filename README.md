@@ -1,7 +1,8 @@
 <div align="center">
-<h1 align="center">Merhaba, ben Oya.</h1>
 
-<h3 align="center">C# / .NET Full Stack Developer | Unity & Unreal Engine 5 Game Dev Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=oyascehnm&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=C%23%20%2F%20.NET%20Developer%20%7C%20Unity%20%26%20UE5%20Game%20Dev&descAlignY=55&descSize=20"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Merhaba%2C+ben+oyascehnm+%F0%9F%91%8B;Unity+%26+UE5+ile+oyunlar+yapıyorum+%F0%9F%8E%AE;C%23+%2F+.NET+ile+kod+yazıyorum+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +16,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
-## who am i?
+## 🎮 Ben Kimim?
 
 ```yaml
 isim: oyascehnm
@@ -26,10 +27,10 @@ konum: Ankara, Türkiye
 iletişim: oyasce.yzl@gmail.com
 ```
 
-- 🕹️ **GameJam'lere** katılıp ekip halinde hızlı prototipler üretmeyi seviyorum
-- 🏗️ **.NET / Entity Framework Core** ile sağlam backend sistemleri kuruyorum
-- 🌱 Yeni shader teknikleri ve oyun mimarileri öğreniyorum
-- ⚡ **Fun fact:** Bazen bug'ı özellik gibi göstermeyi başarıyorum 😄
+- 🎮 Sadece kod yazmıyorum, oyun tasarlıyorum da — hem developer hem game designer gibi düşünmeyi seviyorum
+- 🏗️ En rahat ettiğim alan **C# / .NET**, ama iş **JavaScript, TypeScript ve Python**'a gelince de idare ediyorum
+- 📱 Mobil uygulama ve mobil oyun tarafında da tecrübem var
+- 🌱 Sürekli yeni bir şeyler deniyorum — bazen shader, bazen mimari, bazen tamamen alakasız bir şey
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
@@ -82,6 +83,11 @@ iletişim: oyasce.yzl@gmail.com
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=oyascehnm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyascehnm&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oyascehnm&theme=tokyonight&hide_border=true" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyascehnm&theme=tokyo-night&hide_border=true" />
 
 </div>
@@ -99,11 +105,9 @@ iletişim: oyasce.yzl@gmail.com
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
 
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
 
 
 </div>
@@ -124,4 +128,3 @@ iletişim: oyasce.yzl@gmail.com
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
-
