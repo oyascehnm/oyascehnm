@@ -98,7 +98,3 @@ iletişim: oyasce.yzl@gmail.com
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
-
-<div align="center">
-<i>⭐ Bu profili beğendiysen bir yıldız bırakabilirsin!</i>
-</div>
