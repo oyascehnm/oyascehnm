@@ -5,6 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Merhaba%2C+ben+oyascehnm+%F0%9F%91%8B;Oyun+geli%C5%9Ftiriyorum%2C+oyun+tasarl%C4%B1yorum+%F0%9F%8E%AE;C%23+%2F+.NET+ana+silah%C4%B1m+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
+<br/>
+<br/>
+<br/>
 
 <a href="https://github.com/oyascehnm">
   <img src="https://komarev.com/ghpvc/?username=oyascehnm&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
