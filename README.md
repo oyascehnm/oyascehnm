@@ -16,7 +16,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
-## 🎮 Ben Kimim?
+## Who am i?
 
 ```yaml
 isim: oyascehnm
@@ -28,14 +28,14 @@ konum: Ankara, Türkiye
 iletişim: oyasce.yzl@gmail.com
 ```
 
-- 🎮 Sadece kod yazmıyorum, oyun da tasarlıyorum — developer + game designer kimliğini birlikte taşıyorum
-- 🏗️ En rahat ettiğim alan **C# / .NET**, ama **JavaScript, TypeScript ve Python** da elimin altında
-- 📱 Mobil uygulama ve mobil oyun geliştirme tarafında da tecrübem var
-- 🌱 Sürekli yeni bir şeyler deniyorum — bazen bir mekanik, bazen bir mimari, bazen tamamen alakasız bir şey
+- Sadece kod yazmıyorum, oyun da tasarlıyorum — developer + game designer kimliğini birlikte taşıyorum
+- En rahat ettiğim alan **C# / .NET**, ama **JavaScript, TypeScript ve Python** geçmişim de var
+- Mobil uygulama ve mobil oyun geliştirme tarafında da tecrübem var
+-Sürekli yeni bir şeyler deniyorum — bazen bir mekanik, bazen bir mimari, bazen tamamen alakasız bir şey
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
-## 🧰 Teknoloji Cephaneliğim
+## Kullandığım Teknolojiler
 
 <div align="center">
 
@@ -58,7 +58,7 @@ iletişim: oyasce.yzl@gmail.com
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
-## 🚀 Öne Çıkan Projelerim
+## Öne Çıkan Projelerim
 
 <div align="center">
 
@@ -111,13 +111,13 @@ iletişim: oyasce.yzl@gmail.com
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-<sub>⚙️ Bu animasyonun otomatik güncellenmesi için repo Ayarları > Actions'tan bir GitHub Action kurulması gerekir — istersen bunu da senin için hazırlayabilirim.</sub>
+
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
-## 📫 Bana Ulaşın
+## Bana Ulaşın!
 
 <div align="center">
 
