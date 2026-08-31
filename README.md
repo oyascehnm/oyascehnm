@@ -71,13 +71,6 @@ iletişim: oyasce.yzl@gmail.com
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
-## 🏆 Trophy Vitrini
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oyascehnm&theme=algolia&no-frame=true&row=1&column=6" />
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
