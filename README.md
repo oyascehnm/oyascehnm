@@ -3,9 +3,6 @@
 
 <h3 align="center">C# / .NET Full Stack Developer | Unity & Unreal Engine 5 Game Dev Enthusiast</h3>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Merhaba%2C+ben+oyascehnm+%F0%9F%91%8B;Unity+%26+UE5+ile+oyunlar+yapıyorum+%F0%9F%8E%AE;C%23+%2F+.NET+ile+kod+yazıyorum+%F0%9F%92%BB" alt="Typing SVG" />
-
 <br/>
 
 <a href="https://github.com/oyascehnm">
