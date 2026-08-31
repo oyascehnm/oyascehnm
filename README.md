@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=oyascehnm&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%2B%20Game%20Designer%20%7C%20C%23%20%2F%20.NET&descAlignY=55&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Merhaba%2C+ben+oyascehnm+%F0%9F%91%8B;Oyun+geli%C5%9Ftiriyorum%2C+oyun+tasarl%C4%B1yorum+%F0%9F%8E%AE;C%23+%2F+.NET+ana+silah%C4%B1m+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Merhaba%2C+ben+Oya.+%F0%9F%91%8B;Oyun+geli%C5%9Ftiriyorum%2C+oyun+tasarl%C4%B1yorum+%F0%9F%8E%AE;.NET+%2F+C%23+Geli%C5%9Ftiriciyim+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
