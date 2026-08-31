@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=oyascehnm&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=C%23%20%2F%20.NET%20Developer%20%7C%20Unity%20%26%20UE5%20Game%20Dev&descAlignY=55&descSize=20"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Merhaba%2C+ben+oyascehnm+%F0%9F%91%8B;Unity+%26+UE5+ile+oyunlar+yapıyorum+%F0%9F%8E%AE;C%23+%2F+.NET+ile+kod+yazıyorum+%F0%9F%92%BB" alt="Typing SVG" />
 
@@ -82,9 +82,6 @@ iletişim: oyasce.yzl@gmail.com
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oyascehnm&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyascehnm&theme=tokyo-night&hide_border=true" />
 
