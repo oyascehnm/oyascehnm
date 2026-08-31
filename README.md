@@ -21,8 +21,8 @@
 ```yaml
 isim: oyascehnm
 kimlik: Game Developer + Game Designer
-ana_silah: C# / .NET
-yan_silahlar: [JavaScript, TypeScript, Python]
+ana_alanım: C# / .NET
+yan_alanlar: [JavaScript, TypeScript, Python]
 platformlar: [PC, Mobil Oyun, Mobil Uygulama]
 konum: Ankara, Türkiye
 iletişim: oyasce.yzl@gmail.com
