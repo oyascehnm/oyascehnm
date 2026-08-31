@@ -28,7 +28,7 @@ konum: Ankara, Türkiye
 iletişim: oyasce.yzl@gmail.com
 ```
 
-- Sadece kod yazmıyorum, oyun da tasarlıyorum — developer + game designer kimliğini birlikte taşıyorum
+- Sadece kod yazmıyorum, oyun da tasarlıyorum.
 - En rahat ettiğim alan **C# / .NET**, ama **JavaScript, TypeScript ve Python** geçmişim de var
 - Mobil uygulama ve mobil oyun geliştirme tarafında da tecrübem var
 -Sürekli yeni bir şeyler deniyorum — bazen bir mekanik, bazen bir mimari, bazen tamamen alakasız bir şey
