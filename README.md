@@ -58,27 +58,6 @@ iletişim: oyasce.yzl@gmail.com
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
-## Öne Çıkan Projelerim
-
-<div align="center">
-
-<a href="https://github.com/oyascehnm/InControlGame">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oyascehnm&repo=InControlGame&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/oyascehnm/MaasBordro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oyascehnm&repo=MaasBordro&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/oyascehnm/HastahaneRandevuSimulasyonu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oyascehnm&repo=HastahaneRandevuSimulasyonu&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/oyascehnm/PlakTakip">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oyascehnm&repo=PlakTakip&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3"/>
 
 ## 📊 GitHub İstatistiklerim
 
